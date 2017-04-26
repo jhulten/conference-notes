@@ -125,5 +125,21 @@ SIDENOTE: look at shame research RE: Devops/Blameless portmortem
 
 SWOT analysis (Strength Weaknesses Opportunities Threats)
 
+Remember Herbie. Let the bottleneck set the pace of the organization.
+- How does that apply to us...
+
+Be / Know / Do model - Army leadership
+
+https://www.ausa.org/be-know-and-do
+
+"Team of Teams" McChrystal
+
+ChatOps ChatOps ChatOps!
+
+Retrospective: Hits good things, outages, and near misses.
+
+Green/Blue deployments : code or infrastructure.
+
+
 
 
