@@ -1,0 +1,100 @@
+= DevOpsDays Seattle 2017
+== Day One
+=== Gene Kim : What I have learned since Phoenix Project
+
+==== Business Vaule of DevOps
+
+==== Value to Dev and Ops
+
+==== Code Deployment lead time
+
+lead time is the most accurate predictor of qa quality, employee happiness, etc.
+
+From check in to version control (VC) to providing value.
+
+Before VC: design and development. More R&D oriented. Estimates uncertain.
+
+After VC: Testing and deployment should have short execution time.
+
+==== Suprising implication of Conway's Law
+
+Birth and Death of Etsy Sprouter
+
+- 2008 Dev and DBA need to coordinate
+- 2009 SPRouter (stored procedure router)
+  - Now three teams need to coordinate instead of two
+
+The org and the arch of our software must be congruent
+
+==== DevOps enables dynamic, learning organizations
+
+Steven J. Spear: The High Velocity Edge
+
+Designing perfectly safe systems is likely beyond our capabilities.
+
+We can get close provided four conditions exist:
+
+- See problems as they occue
+- Swarm and solve problems to create new knowledge
+  - Getting anyones code into production is more important than whatever I am doing now
+- Spread new knowledge through the organization
+- Leaders create new leaders
+
+Knowledge:
+
+- single shared source code repository
+- blameless post-mortems
+- chaos monkeys
+- learning days and internal technology conferences
+- embracing open source
+
+"You are only as smart as the average of the top 5 people you hang out with"
+
+==== DevOps is for the Unicorns and the Horses too.
+
+@stevenmayner : Transofrmational leadership
+
+- inspirational motivation
+- idealized influence
+- individualized consideration
+- intellectual stimulation
+
+=== Nell Shamrell : DevOps in Politics
+
+@nellshamrell
+
+If every company is a software company, then every campaign is a software company too.
+
+Technology moves on between campaigns.
+
+the principals stay the same
+
+"tools alone are not DevOps..."
+
+Technical implementations are useless if they solve the wrong problem.
+
+Success of a business is measured in money.
+Ultimate success of a campaign is measured in votes.
+
+Vote == Heart, then Mind, then Motivation
+
+The right automation enables speed and accuracy.
+
+The wrong automation enables speed and damages accuracy.
+
+The right automation enables human connection, instead of replacing it.
+
+- Bad Automation: Robocalls
+
+Being right is irrelevant if you don't have the votes.
+
+Let go of being right and meet people where they are.
+
+Someone will listen to you if you listen to them first.
+
+Human Capital cannot be replaced with machines.
+
+Purpose of automation is to free up human capital to do what it does best.
+
+
+
