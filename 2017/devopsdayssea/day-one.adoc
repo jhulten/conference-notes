@@ -97,4 +97,33 @@ Human Capital cannot be replaced with machines.
 Purpose of automation is to free up human capital to do what it does best.
 
 
+=== Scott Nasello : Devops on MS World
+
+MS Org:
+
+- monolithic tools, screenshots, "click next"
+- closed source, undoc APIs, 
+
+Lots of impostor syndrome.
+
+Be prepared to disappoint someone. Choose wisely about who you disappoint.
+
+Focus on increment improvements. Don't focus on Devops nirvana.
+
+Reflect on why you do things. Is it still valid? Was it ever valid?
+
+- Career progression
+- Certifications
+- Education background
+
+Your goal is to pitch the ball where the bat will be...
+
+- Carol Dweck - Growth mindset
+  - Change 'failing grade' to 'not yet meeting standard'. Works on kids.
+
+SIDENOTE: look at shame research RE: Devops/Blameless portmortem
+
+SWOT analysis (Strength Weaknesses Opportunities Threats)
+
+
 
