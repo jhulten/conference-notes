@@ -1,0 +1,33 @@
+= DevOpsDays Seattle
+
+== Day One
+
+=== John Allspaw
+
+* http://stella.report
+* http://bitly.com/AllspawThesis
+* Most people in the field are practitioner researchers
+* J. Paul Reed in Lund U. @nora_js @caseyrosenthal
+* Fundamental View
+** Starting with where and what.
+*** Above the line
+**** The people and where work gets done
+**** Above the line interacts with things below the line via the line of representation
+*** Below the line
+**** The services and machines
+*** You never see things below the line, you see a represenation
+**** The represenations are extra important because they are your hands and eyes.
+*** Above the line is about cognitive activities that get the real work done.
+*** We work in concepts and models.
+*** Both parts are changing over time.
+**** The conception you have is contextual to what your drawing.
+** Above the line is not culture, its cognition.
+*** How does our software work, really?
+*** How does our software break, really?
+*** What do we do to keep it all working?
+*** How long would your system stay up if you touched nothing, including responding to pages?
+** We study incidents
+*** Incidents bring everyones attention to a specific place and time.
+*** All incidents are suprises
+**** Incidents are like a joke, you dont expect it and it suprises you.
+
