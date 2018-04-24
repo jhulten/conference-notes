@@ -2,7 +2,7 @@
 
 == Day One
 
-=== John Allspaw
+=== John Allspaw : Taking Human Performance Seriously In Software
 
 * http://stella.report
 * http://bitly.com/AllspawThesis
@@ -30,4 +30,7 @@
 *** Incidents bring everyones attention to a specific place and time.
 *** All incidents are suprises
 **** Incidents are like a joke, you dont expect it and it suprises you.
+* http://www.adaptivecapacitylabs.com/blog/2017/12/19/taking-human-performance-seriously/
+
+
 
